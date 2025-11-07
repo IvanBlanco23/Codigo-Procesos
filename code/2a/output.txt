@@ -1,0 +1,4 @@
+Archivo: App.java
+---------------------------------------
+Líneas Lógicas (LOC): 6
+Métodos Encontrados: 1
